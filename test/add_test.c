@@ -77,15 +77,4 @@ void test_add(void) {
   CU_ASSERT(1500 == adder(750, 400,7500));
 }
 
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
